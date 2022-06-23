@@ -1,8 +1,8 @@
 ---
 layout: page
-title: project 2
-description: a project with a background image
-img: assets/img/3.jpg
+title: Fishing
+description: When not gaming, or working. Mr. Wetter enjoys fishing.
+img: assets/img/2.jpg
 importance: 2
 category: work
 ---

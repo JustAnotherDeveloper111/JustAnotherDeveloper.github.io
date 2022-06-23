@@ -1,9 +1,9 @@
 ---
 layout: page
-title: project 3
-description: a project that redirects to another website
-img: assets/img/7.jpg
-redirect: https://unsplash.com
+title: Music
+description: Mr. Wetter also has a list of selected tunes. Check them out!
+img: assets/img/3.jpg
+redirect: https://www.youtube.com/watch?v=dQw4w9WgXcQ
 importance: 3
 category: work
 ---
